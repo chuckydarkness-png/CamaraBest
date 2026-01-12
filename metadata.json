@@ -1,0 +1,8 @@
+{
+  "name": "CameraBest",
+  "description": "Next-gen AI video and photo editor with social interaction, powered by Gemini and real-time community feeds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
